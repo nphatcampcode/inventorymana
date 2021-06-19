@@ -1,1 +1,2 @@
 # inventorymana
+INVENTORY MANAGEMENT JAVA SWING GUI 
